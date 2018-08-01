@@ -45,3 +45,4 @@ public class TestCases extends TestBase
 	
 }
 		
+new classs
