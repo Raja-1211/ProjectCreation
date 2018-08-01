@@ -39,7 +39,7 @@ public class LoginPage extends TestBase
 	WebElement loginbtn;
 	public CreateNewProjectPage loginbtn()
 	{
-		
+		new login page method in branch
 		loginbtn.click();
 		return new CreateNewProjectPage();
 	}
